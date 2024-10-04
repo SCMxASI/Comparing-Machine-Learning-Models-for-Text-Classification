@@ -1,5 +1,7 @@
 # Comparing-Machine-Learning-Models-for-Text-Classification
 
+[TO KNOW MORE ABOUT THIS PROJECT, PLEASE CHECK THE README.txt FILE]
+
 Note: "* I don't upload any "LIBRARIES" which are essential to run this program. Kindly install the needed libraries to run this prg*"
 
 {1.NumPy (numpy): For numerical computations.
