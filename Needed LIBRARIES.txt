@@ -1,0 +1,10 @@
+NumPy (numpy): For numerical computations.
+Pandas (pandas): For data manipulation and analysis.
+Scikit-Learn (sklearn): For machine learning tasks, including text classification.
+Seaborn (seaborn): For data visualization.
+Matplotlib (matplotlib): For data visualization.
+
+
+=>You can install these libraries using pip:
+
+pip install numpy pandas scikit-learn seaborn matplotlib
